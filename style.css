@@ -62,6 +62,7 @@ list-style-type: none;
 
 
 .container{
+    background-color:rgb(168, 202, 211);
     font-weight: bolder;
     text-align:center;
     display:flex;
@@ -69,8 +70,15 @@ list-style-type: none;
 }
 
 #intro{
-    padding: 150px 300px;
+    padding: 200px 300px;
     font-size: 60px;
     color:black;
+}
+
+.footer{
+    text-align: center;
+    padding: 15px 0px;
+    color: white;
+    background-color: rgb(103, 27, 226);
 }
 
